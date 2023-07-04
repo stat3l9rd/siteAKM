@@ -1,2 +1,2 @@
 # km.biz
-Status:dev. My site.
+Status:dev. Site of Akademy KM.
